@@ -1,0 +1,14 @@
+{
+  "name": "projeto-01",
+  "version": "1.0.0",
+  "description": "Este projeto tem como objetivo reproduzir um layout proposto utilizando HTML, CSS e JavaScript. A aplicação inclui uma interface responsiva (versões desktop e mobile) e funcionalidades como um campo de busca e carrosséis interativos.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
