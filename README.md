@@ -7,7 +7,7 @@ Este projeto tem como objetivo reproduzir um layout proposto utilizando HTML, CS
 
 🎯 Tecnologias utilizadas:  
 - HTML5  
-- CSS3 (com ou sem framework)  
+- CSS3 (com bootstrap)  
 - JavaScript  
 
 📝 Este projeto faz parte de um **processo seletivo para a empresa Avanti**, e tem como finalidade demonstrar habilidades práticas de desenvolvimento front-end com base em um layout fornecido.
